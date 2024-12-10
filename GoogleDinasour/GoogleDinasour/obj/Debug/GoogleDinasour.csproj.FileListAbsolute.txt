@@ -1,0 +1,9 @@
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\bin\Debug\GoogleDinasour.exe.config
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\bin\Debug\GoogleDinasour.exe
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\bin\Debug\GoogleDinasour.pdb
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\obj\Debug\GoogleDinasour.csprojResolveAssemblyReference.cache
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\obj\Debug\GoogleDinasour.FRMMain.resources
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\obj\Debug\GoogleDinasour.Properties.Resources.resources
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\obj\Debug\GoogleDinasour.csproj.GenerateResource.Cache
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\obj\Debug\GoogleDinasour.exe
+c:\users\matin\documents\visual studio 2012\Projects\GoogleDinasour\GoogleDinasour\obj\Debug\GoogleDinasour.pdb
